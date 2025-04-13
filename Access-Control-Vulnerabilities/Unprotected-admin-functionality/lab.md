@@ -1,4 +1,4 @@
-# Lab: Unprotected admin functionality with unpredictable URL
+# Lab: Unprotected admin functionality
 
 **URL:** `https://0a7b00400335b3b1808f7b180005000e.web-security-academy.net/`
 
@@ -7,7 +7,7 @@
 2. In the URL bar, replace "/robots.txt" with "/administrator-panel" to load the admin panel.
 3. Delete "carlos".
 
-## ✅ Result: screenshots/LabComplete.png
+## ✅ Result: screenshots/Result.png
 
 ## 🖼️ Screenshot
 ![HomePage](screenshots/HomePage.png)
