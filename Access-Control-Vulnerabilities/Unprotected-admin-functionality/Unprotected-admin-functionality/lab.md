@@ -1,4 +1,5 @@
 # Lab: Unprotected admin functionality
+## Target: Access admin panel and delete "carlos"
 
 **URL:** `https://0a7b00400335b3b1808f7b180005000e.web-security-academy.net/`
 
