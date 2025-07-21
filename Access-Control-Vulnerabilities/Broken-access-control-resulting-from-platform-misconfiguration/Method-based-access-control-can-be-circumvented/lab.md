@@ -5,7 +5,7 @@
 ## Admin creds: administrator:admin
 ## Wiener creds: wiener:peter
 
-## 🔎 Solution
+## Solution
 1. Log in using the admin credentials.
 2. Browse to the admin panel, promote carlos, and send the HTTP request to Burp Repeater.
 3. Open a private/incognito browser window, and log in with the non-admin credentials.
@@ -16,7 +16,7 @@
 
 ## ✅ Result: screenshots/result.png
 
-## 🖼️ Screenshot
+## Screenshot
 ![Promote Carlos](screenshots/promote.png)
 ![Copu cookie of Wiener and paste in Admin](screenshots/copypasteCookie.png)
 ![Change Method](screenshots/changeMethod.png)

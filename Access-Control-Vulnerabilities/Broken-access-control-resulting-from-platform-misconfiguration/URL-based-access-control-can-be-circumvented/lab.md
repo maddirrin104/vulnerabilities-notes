@@ -3,7 +3,7 @@
 
 **URL:** `https://0a03003604ed90d482be420900cd000a.web-security-academy.net/`
 
-## 🔎 Solution
+## Solution
 1. Browse to /admin. Observe that you get blocked.
 2. Turn on interception. Change HTTP header line to "/" and add "X-Original-Url: /admin". 
 3. Forward request. Access to admin panel.
@@ -11,7 +11,7 @@
 
 ## ✅ Result: screenshots/result.png
 
-## 🖼️ Screenshot
+## Screenshot
 ![Access Deny](screenshots/accessDeny.png)
 ![Change HTTP header](screenshots/changeHeaderLine.png)
 ![Admin Panel](screenshots/admin.png)
