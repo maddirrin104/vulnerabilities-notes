@@ -1,2 +1,2 @@
-# Làm lab chill chill
+# Vuln. notes
 
